@@ -30,7 +30,6 @@
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
   <string name="show_dev_already_mk">Настройки для разработчиков уже включены.</string>
   <!-- MKCenter verify -->
-  <string name="mkcenter_verify_failed_toast">Заморозка или удаление Панели MoKee повлияет на системные службы, пожалуйста, восстановите и повторите попытку.</string>
   <!-- Manage applications: show substratum overlays -->
   <string name="filter_substratum_apps">Слои Substratum</string>
   <string name="menu_show_substratum">Показывать слои</string>

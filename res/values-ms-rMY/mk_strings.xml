@@ -27,7 +27,6 @@
   <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
   <string name="show_dev_already_mk">Tidak perlu, anda telah mendayakan seting pembangunan.</string>
   <!-- MKCenter verify -->
-  <string name="mkcenter_verify_failed_toast">Membekukan atau megeluarkan MoKee Center akan menjejaskan servis sistem, sila memulihkan dan mencuba lagi.</string>
   <!-- Manage applications: show substratum overlays -->
   <string name="filter_substratum_apps">Substratum penindahan</string>
   <string name="menu_show_substratum">Memaparkan penindihan</string>
