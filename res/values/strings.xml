@@ -6424,6 +6424,8 @@
     <string name="data_switch_started">Switching data SIM, this may take up to a minute...</string>
     <!-- Message for selecting sim for call in settings.  [CHAR LIMIT=40] -->
     <string name="select_sim_for_calls">Call with</string>
+    <!-- Message for selecting sim for sending messages in settings.  [CHAR LIMIT=40] -->
+    <string name="select_sim_for_messages">Send Messages with</string>
     <!-- Title for selecting a SIM card.  [CHAR LIMIT=40] -->
     <string name="sim_select_card">Select a SIM card</string>
     <!-- Label for a numbered SIM card.  [CHAR LIMIT=40] -->
@@ -8389,6 +8391,11 @@
 
     <!-- Text for the setting on whether you can type text into notifications without unlocking the device. -->
     <string name="lockscreen_remote_input">If device is locked, prevent typing replies or other text in notifications</string>
+
+    <string-array name="bytes_picker_sizes" translatable="false">
+        <item>@*android:string/megabyteShort</item>
+        <item>@*android:string/gigabyteShort</item>
+    </string-array>
 
     <!-- [CHAR LIMIT=30] Label for setting to control the default spell checker -->
     <string name="default_spell_checker">Default spell checker</string>
